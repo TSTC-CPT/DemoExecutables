@@ -4,5 +4,5 @@ Some simple applications for demo purposes. Bugs are free to use.
 Used to showcase user input formatted as HTML.
 ### [Regular Expressions](https://github.com/TSTC-CPT/DemoExecutables/blob/main/RegularExpressionsDemo.exe)
 A "match the string" application using Regex.
-### [Password Complexity](https://github.com/TSTC-CPT/DemoExecutables/blob/main/RegularExpressionsDemo.exe)
+### [Password Complexity](https://github.com/TSTC-CPT/DemoExecutables/blob/main/PasswordComplexityDemo.exe)
 Password rules and complexity requirements.
